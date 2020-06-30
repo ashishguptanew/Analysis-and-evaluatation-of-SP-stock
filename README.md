@@ -4,7 +4,7 @@
 
 ### Step 1- Import and Creation of a database
 
-While importing the data, we've used the website https://www.investing.com/ then search indicies S&amp;P 500 Futures, downloaded historical data for certain period and analysis & convert raw data into data tables.
+While importing the data, we've used the financial website https://www.investing.com/ then search indicies S&P 500 Futures, downloaded historical data for certain period and analysis & convert raw data into data tables.
 
 
 ### Step 2- Defining the goals for analysis
