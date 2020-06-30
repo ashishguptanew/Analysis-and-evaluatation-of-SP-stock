@@ -1,6 +1,6 @@
 # Analysis of S&P 500 Stock
 
-##Analysis, data wrangling, evaluation and preparing dashboard of S&amp;P 500 Stock.
+## Analysis, data wrangling, evaluation and preparing dashboard of S&amp;P 500 Stock.
 
 Step 1- Import and Creation of a database
 Step 2- Defining the goals for analysis
