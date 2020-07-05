@@ -12,12 +12,19 @@ While importing the data, we've used the financial website https://www.investing
 In this section, we've defined our main goals as given below;
 
 ▪ Highest price 
+
 ▪ Lowest price 
+
 ▪ Standard deviation 
+
 ▪ Highest price movement 
+
 ▪ Lowest price movement 
+
 ▪ Average daily volatility 
+
 ▪ Higher Price (Provision) 
+
 ▪ Lower Price (Provision)
 
 
